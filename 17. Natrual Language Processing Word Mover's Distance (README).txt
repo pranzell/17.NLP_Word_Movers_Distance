@@ -1,0 +1,5 @@
+17. Natrual Language Processing Word Mover's Distance
+
+This repository dives into the basics of a Word Mover's Distance Module.
+
+It shows us how to use WMD Model to predict semantic similarity between two sentences. 
